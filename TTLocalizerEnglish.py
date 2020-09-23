@@ -17,3 +17,5 @@ PizzaPlaceOrder = 'Place Order'
 PizzaRemoveCart = 'Remove From Cart'
 PizzaTotals = 'Subtotal: ${}\nDelivery: ${}\nSales Tax: ${}\nTotal: ${}'
 PizzaOrderPlaced = 'Ordered placed successfully!\nYour card has been charged {}.\n\nTime to celebrate, pizza is coming!'
+PizzaLocation = "You can only order pizza in United States and Canada."
+PizzaApiOffline = "Looks like the api is offline. Please try again later."
