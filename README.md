@@ -23,3 +23,5 @@ I will not be supporting this repo, so do not report any crashes or issues or an
 Please, please, PLEASE show me any instances of you ordering a pizza if you decide to actually use this. I find it really hilarious and absolutely want to see all instances of it's use. Just tweet me at @Benjamin8693 or shoot me a message on Discord, Benjamin#8693.
 
 Enjoy your pizza pie :)
+
+P.S. - I know some of the code (especially GUI) is pretty redundant. I got lazy at the end, alright?
