@@ -4,8 +4,11 @@ A feature that allows you to order pizza directly from Toontown
 To port this to a Toontown source of your choosing, do the following steps.
 
 Step 1: Get the pizzapi module with your Panda3D's python, then replace the modules included with the ones in the "pizzapi" folder included in this repo
+
 Step 2: Add the localizer strings in TTLocalizerEnglish to your own localizer
+
 Step 3: Instantiate the GUI somewhere and hook it up to a Magic Word or other means in order to load/enter it
+
 Step 4: Enjoy!
 
 Here are some tips you should keep in mind:
